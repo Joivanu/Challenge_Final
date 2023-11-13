@@ -25,3 +25,4 @@ el resultado es que posiblemente hay 3 clusters pero para descartar utilzaremos 
 Corroborando con el metodo del codo podemos deducir que efectivamente podemos tener 3 clusters 
 en el siguiente analisis con una grafica de caja y bigotes revisaremos como es la estadistica de cada uno de nuestros clusters
 como resultado veremos la regency, frecuency y amount de cada cliente o variable revisada
+## _Por utlimo y como deduciones lo que podemos concluir con el curso de programación es como podemos analizar las variables y encontrar funcionalidad a los datos de una manera mas automatizada asi como buscar soluciones ya sean de ML o inteligencia atificlal_ 
