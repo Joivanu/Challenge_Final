@@ -18,3 +18,9 @@ Este set de datos tiene las siguientes variables:
 
 Basado en ejercicio de [Kaggle](https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering)
 ## 1 En el ejericcio elegiremos las 3 variables de numero de dias desde la ultima compra, numero de transacciónes y cantidad todal gastada por cliente, para ver como se determinan nuestros clusters.
+despues de ecalar los datos, generaremos un los cluster jerarquicos.
+## 2 Clustering jerárquico Se elige una métrica euclídea con un método de enlace de Ward
+como primera instancia generaremos un dendograma para ver cuales seria nuestra cantidad de clusters posibles
+el resultado es que posiblemente hay 3 clusters pero para descartar utilzaremos el metodo del codo y verificaremos la cantidad
+Corroborando con el metodo del codo podemos deducir que efectivamente podemos tener 3 clusters 
+
