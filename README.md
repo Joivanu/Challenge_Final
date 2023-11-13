@@ -23,4 +23,5 @@ despues de ecalar los datos, generaremos un los cluster jerarquicos.
 como primera instancia generaremos un dendograma para ver cuales seria nuestra cantidad de clusters posibles
 el resultado es que posiblemente hay 3 clusters pero para descartar utilzaremos el metodo del codo y verificaremos la cantidad
 Corroborando con el metodo del codo podemos deducir que efectivamente podemos tener 3 clusters 
-
+en el siguiente analisis con una grafica de caja y bigotes revisaremos como es la estadistica de cada uno de nuestros clusters
+como resultado veremos la regency, frecuency y amount de cada cliente o variable revisada
